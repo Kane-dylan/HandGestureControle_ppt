@@ -40,7 +40,19 @@ The **Gesture-Controlled PowerPoint Presenter** is a Python project that enables
    ```
    python main.py
    ```
-## [Watch This](https://drive.google.com/file/d/1UTWRDjjz_aOBcgeQCU1XOWmzKuUGlJxT/view?usp=drive_link)
+ <details open>
+  <summary><strong>📺 Watch This</strong></summary>
+
+https://github.com/user-attachments/assets/442f7122-9602-4921-9dcb-1aea96ee76b5
+
+This is the demo of this project.
+
+</details>
+
+
+
+
+
 
 ## Usage
 
